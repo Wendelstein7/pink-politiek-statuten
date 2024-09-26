@@ -13,7 +13,12 @@ Deze repository bevat de statuten van PINK! Politiek en dient als een hulpmiddel
 ### Inhoud
 
 - **[STATUTEN.md](STATUTEN.md)**: Bevat statuten van PINK! Politiek in Markdown-formaat.
+
 - **[LICENSE.md](LICENSE.md)**: Bevat de licentie en disclaimer van deze repository.
+
+- **[HISTORIE/](HISTORIE)**: Bevat de historische versies van de statuten.
+
+  - **[STATUTEN-2016-10-29.md](HISTORIE/STATUTEN-2016-10-29.md)**: Statuten van 29 oktober 2016. [\[bron\]](https://www.pinkpolitiek.nl/wp-content/uploads/2018/11/Statuten-29-10-2016-v2.pdf)
 
 ## Licentie en disclaimer
 
