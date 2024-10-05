@@ -75,8 +75,7 @@
 
 ## Artikel 5 Inkomsten
 
-1. De geldmiddelen van de vereniging bestaan uit de jaarlijkse bijdragen van de leden, vrijwillige bijdragen, de bijdragen van de donateurs, subsidies,
-   erfstellingen, legaten, schenkingen en andere inkomsten.
+1. De geldmiddelen van de vereniging bestaan uit de jaarlijkse bijdragen van de leden, vrijwillige bijdragen, de bijdragen van de donateurs, subsidies, erfstellingen, legaten, schenkingen en andere inkomsten.
 
 ## Artikel 6 Contributie
 
