@@ -1,4 +1,5 @@
 # Statuten
+Versie 2025-07-18
 
 ## Inhoudsopgave
 
@@ -42,7 +43,7 @@
 
 ## Artikel 2 Naam en zetel
 
-1. De vereniging draagt de naam: PINK!
+1. De vereniging draagt de naam: PINK!.
 2. De vereniging heeft haar zetel in de gemeente Amsterdam.
 
 ## Artikel 3 Doel
@@ -98,7 +99,7 @@
 
 1. Het bestuur bestaat uit ten minste drie en ten hoogste zeven natuurlijke personen, daarvan deel uitmakend: een voorzitter, een secretaris en een penningmeester. De voorzitter, secretaris en de penningmeester worden in functie benoemd. Het bestuur kan daarnaast ook een vicevoorzitter uit zijn midden aanwijzen. Leden van het bestuur kunnen slechts één functie hebben binnen het bestuur.
 2. De bestuurders worden door de algemene vergadering benoemd uit de niet geschorste leden van de vereniging die de achttienjarige leeftijd hebben bereikt. Het lidmaatschap van het bestuur is onverenigbaar met andere bestuurlijke functies binnen de vereniging. Een en ander behoudens hetgeen verder in deze statuten of het huishoudelijk reglement is bepaald.
-3. Bestuursleden worden benoemd voor een periode van ten hoogste twee jaar. Iedere bestuurder tweemaal herbenoembaar voor een periode van ten hoogste twee jaar.
+3. Bestuursleden worden benoemd voor een periode van ten hoogste twee jaar. Iedere bestuurder is tweemaal herbenoembaar voor een periode van ten hoogste twee jaar.
 4. De algemene vergadering kan besluiten dat een bestuurder recht heeft op:
    - a. een beloning voor haar werkzaamheden als bestuurder; en/of
    - b. een vergoeding van de door hem (in redelijkheid) gemaakte kosten bij de uitoefening van haar functie; en/of
@@ -113,10 +114,11 @@ _schorsing en ontslag_
 _ontstentenis of belet_
 
 8. Bij ontstentenis of belet van een bestuurder zijn de overige bestuurders met het bestuur belast. Als één of meer bestuurders ontbreken, vormen de overgebleven bestuurders of vormt de overgebleven bestuurder een bevoegd bestuur.
-9. Bij ontstentenis of belet van alle bestuurders wordt de vereniging tijdelijk bestuurd door één of meer personen die daartoe door de algemene vergadering steeds moeten zijn aangewezen. Voor de gedurende deze periode verrichtte bestuursdaden worden de aangewezen personen met een bestuurder gelijkgesteld.
+9. Bij ontstentenis of belet van alle bestuurders wordt de vereniging tijdelijk bestuurd door één of meer personen die daartoe door de algemene vergadering steeds moeten zijn aangewezen. Voor de gedurende deze periode verrichte bestuursdaden worden de aangewezen personen met een bestuurder gelijkgesteld.
 10. .
     - Van _ontstentenis_ is sprake als:
-    - a. een vacature ontstaat door aftreden of ontslag waarbij geen directe opvolger is benoemd; of b. een bestuurder overlijdt.
+    - a. een vacature ontstaat door aftreden of ontslag waarbij geen directe opvolger is benoemd; of
+    - b. een bestuurder overlijdt.
     - Van _belet_ is in elk geval sprake als een bestuurder door:
     - a. schorsing;
     - b. ziekte, langer dan één maand; of
@@ -126,7 +128,7 @@ _ontstentenis of belet_
 _bestuurstaak en bevoegdheid_
 
 11. Het bestuur is belast met het besturen van de vereniging. Iedere bestuurder richt zich bij de vervulling van diens taak naar het belang van de vereniging en de met haar verbonden organisatie.
-12. Het bestuur is verplicht de financiële administratie van de vereniging gedurende een periode van zeven jaren te bewaren of langer indien de wet dit vereist.
+12. Het bestuur is verplicht de financiële administratie van de vereniging gedurende een periode van zeven jaar te bewaren of langer indien de wet dit vereist.
 13. Het bestuur is niet bevoegd tot het sluiten van overeenkomsten tot het verkrijgen, vervreemden of bezwaren van registergoederen en tot het sluiten van overeenkomsten waarbij de vereniging zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidsstelling voor een schuld van een derde verbindt, tenzij voorafgaand toestemming is verkregen door de algemene vergadering.
 
 _vergadering en besluitvorming_
@@ -177,11 +179,12 @@ _vertegenwoordiging_
 3. Het bestuur brengt op een algemene vergadering binnen zes maanden na afloop van het verenigingsjaar, behoudens verlenging van deze termijn door de algemene vergadering, haar bestuursverslag uit over de gang van zaken in de vereniging en over het gevoerde beleid. Het legt de balans en de staat van baten en lasten met een toelichting ter goedkeuring aan de algemene vergadering over. Deze stukken worden ter vaststelling ondertekend door de bestuurders; ontbreekt de ondertekening van een of meer van hen, dan wordt daarvan onder opgave van redenen melding gemaakt. Na verloop van de termijn kan ieder lid van de gezamenlijke bestuurders in rechte vorderen dat zij deze verplichtingen nakomen.
 4. .
    - _kascommissie_
-   - De algemene vergadering benoemt jaarlijks - bij voorkeur tijdens de jaarvergadering - uit de leden een kascommissie van minimaal twee personen, die geen deel mogen uitmaken van het bestuur. De kascommissie onderzoekt de de balans en de staat van baten en lasten en brengt aan de algemene vergadering verslag uit van haar bevindingen. Het bestuur is verplicht aan de kascommissie ten behoeve van haar onderzoek alle door haar gewenste inlichtingen te verschaffen, haar desgewenst de kas en de waarden te tonen en de boeken, bescheiden en andere gegevensdragers van de vereniging voor raadpleging beschikbaar te stellen.
+   - De algemene vergadering benoemt jaarlijks - bij voorkeur tijdens de jaarvergadering - uit de leden een kascommissie van minimaal twee personen, die geen deel mogen uitmaken van het bestuur. De kascommissie onderzoekt de balans en de staat van baten en lasten en brengt aan de algemene vergadering verslag uit van haar bevindingen. Het bestuur is verplicht aan de kascommissie ten behoeve van haar onderzoek alle door haar gewenste inlichtingen te verschaffen, haar desgewenst de kas en de waarden te tonen en de boeken, bescheiden en andere gegevensdragers van de vereniging voor raadpleging beschikbaar te stellen.
    - _extra ondersteuning kascommissie_
    - Vereist het onderzoek van de rekening en verantwoording bijzondere boekhoudkundige kennis dan kan de kascommissie, mits met goedkeuring van het bestuur, zich voor rekening van de vereniging door een deskundige doen bijstaan.
    - _accountant naast kascommissie_
    - De algemene vergadering kan besluiten om naast een kascommissie een accountant als bedoeld in artikel 2:393 lid 1 BW te benoemen. Het bestuur verleent alsdan aan die accountant de opdracht om de door het bestuur opgemaakte balans en de staat van baten en lasten te onderzoeken. De accountant geeft de uitslag van zijn onderzoek weer in een verklaring, waarvan het karakter in onderling overleg tussen het bestuur en de betreffende accountant wordt vastgesteld. Deze verklaring wordt aan de stukken toegevoegd zoals die aan de algemene vergadering ter goedkeuring worden voorgelegd.
+5. .
    - _accountant indien geen kascommissie_
    - In het geval dat er geen kascommissie is benoemd, verleent de algemene vergadering aan een accountant als bedoeld in artikel 2:393 lid 1 Burgerlijk Wetboek, de opdracht om de door het bestuur opgemaakte balans en de staat van baten en lasten te onderzoeken. De accountant geeft alsdan de uitslag van zijn onderzoek weer in een verklaring omtrent de getrouwheid van de stukken. Deze verklaring wordt aan de stukken toegevoegd zoals die aan de algemene vergadering ter goedkeuring worden voorgelegd.
 
@@ -189,15 +192,14 @@ _vertegenwoordiging_
 
 1. Wijziging van de statuten kan slechts plaatshebben door een besluit van de algemene vergadering, waartoe werd opgeroepen met de mededeling dat aldaar wijziging van de statuten zal worden voorgesteld.
 2. Tot wijziging van de statuten kan door de algemene vergadering slechts worden besloten met een meerderheid van ten minste twee derde van het aantal uitgebrachte geldige stemmen.
-3. De statutenwijziging treedt eerst in werking nadat daarvan een notariële akte is opgemaakt.
-4. De algemene vergadering kan slechts tot wijziging van de artikelen 2, 3 en 6 en onderhavige bepaling besluiten indien dit met algemene stemmen wordt genomen in een vergadering waarin ten minste vijftig procent van alle stemgerechtigde leden aanwezig is. Is in een vergadering waarin dit besluit aan de orde is, niet ten minste vijftig procent van alle stemgerechtigde leden aanwezig, dan wordt een tweede vergadering bijeengeroepen, te houden niet eerder dan een week en niet later dan twee maanden na de eerste vergadering. In deze tweede vergadering kan ongeacht het aantal aanwezige leden rechtsgeldig omtrent het voorstel worden besloten, met een meerderheid van ten minste twee derden van het aantal geldig uitgebrachte stemmen.
+3. De statutenwijziging treedt eerst in werking nadat daarvan een notariële akte is opgemaakt. Iedere bestuurder is bevoegd de akte van statutenwijziging te doen verlijden.
 
 ## Artikel 13 Ontbinding en vereffening
 
 1. Ontbinding van de vereniging kan alleen geschieden door de algemene vergadering bij tweederdemeerderheid van de uitgebrachte geldige stemmen.
 2. De vereffening geschiedt door het bestuur, tenzij bij het besluit tot ontbinding andere vereffenaars worden aangewezen.
 3. Een eventueel batig saldo zal toekomen aan de Partij voor de Dieren.
-4. Na de ontbinding blijft de vereniging voortbestaan voor zover dit de vereffening van haar vermogen nodig is.
+4. Na de ontbinding blijft de vereniging voortbestaan voor zover dit voor de vereffening van haar vermogen nodig is.
 5. Gedurende de vereffening blijven de bepalingen van de statuten zoveel mogelijk van kracht. In stukken en aankondigingen die van de vereniging uitgaan, moet aan haar naam worden toegevoegd de woorden: "in liquidatie".
 6. Na afloop van de vereffening blijven de boeken en bescheiden van de ontbonden vereniging gedurende zeven jaar onder berusting van de door de algemene vergadering daartoe aangewezen persoon.
 
@@ -218,5 +220,8 @@ _vertegenwoordiging_
 
 ## Artikel 16 Afdelingen en werkgroepen
 
-1. Het bestuur is bevoegd te besluiten tot het instellen - alsook tot het opheffen, samenvoegen of splitsen - van één of meer afdelingen dan wel werkgroepen van de vereniging. Afdelingen zullen een regionaal karakter hebben. Werkgroepen zullen een uitvoerend karakter hebben. Afdelingen en werkgroepen bezitten geen rechtspersoonlijkheid. Slecht leden van de vereniging kunnen deel uitmaken van een afdeling en werkgroep.
-2. Het bestuur is bevoegd één of meer reglementen vast te stellen met betrekking tot de vorming van afdelingen en werkgroepen, de samenstelling van afdelingen/werkgroepen, de taken van afdelingen en werkgroepen, alsook de besluitvorming door en werkwijze van afdelingen/werkgroepen. Het bestuur is voorts bevoegd zodanig(e) reglement(en) te wijzigen, aan te vullen en/of op te heffen.
+1. Het bestuur is bevoegd te besluiten tot het instellen - alsook tot het opheffen, samenvoegen of splitsen - van één of meer afdelingen dan wel werkgroepen van de vereniging.
+2. Afdelingen hebben een regionaal karakter. Werkgroepen hebben een uitvoerend karakter.
+3. Afdelingen en werkgroepen bezitten geen rechtspersoonlijkheid.
+4. Slechts leden van de vereniging kunnen deel uitmaken van de afdelingen en werkgroepen.
+5. Het bestuur is bevoegd één of meer reglementen vast te stellen waarin voor de afdelingen en werkgroepen nadere regelingen worden opgenomen met betrekking tot de vorming, samenstelling, taken, werkwijze en besluitvorming.
